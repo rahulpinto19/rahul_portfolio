@@ -190,7 +190,7 @@ export const projects = [
   {
     id: 0,
     title: "Coding Club Quiz Web App",
-    date: "Sep 2023 - NOv 2023",
+    date: "Sep 2023 - Nov 2023",
     description:
       "CENTRAL UNIVERSITY OF HARYANA Coding Club Quiz web app project. This platform is designed to cater to students who can log in to their accounts, select coding quizzes based on their preferred subjects, and actively participate in the quizzes.The web app provides instant results",
     
@@ -203,7 +203,7 @@ export const projects = [
   {
     id: 1,
     title: "RK Clinic +",
-    date: "Dec 2022 - Jan 2024",
+    date: "Dec 2023 - Jan 2024",
     description: "Developed a user-friendly healthcare platform allowing doctor appointments, showcasing comprehensive clinic services,legal page,contact supports and enabling virtual consultations for expert medical advice. Ensuring a responsive UI design across devices",
       image:require("./p2home.png"),
     tags: [
