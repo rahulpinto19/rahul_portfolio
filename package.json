@@ -1,7 +1,7 @@
 {
-  "name": "champalalsuthar-portfolio",
+  "name": "vinay_kumar_portfolio",
   "version": "0.1.0",
-  "homepage": "https://champalalsuthar.github.io",
+  "homepage": "https://vinaykumaryadav9199.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

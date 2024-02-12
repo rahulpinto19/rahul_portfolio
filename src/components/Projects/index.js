@@ -15,7 +15,7 @@ const Projects = ({ openModal, setOpenModal }) => {
           {toggle === 'all' && projects
             .map((project) => (
               <ProjectCard project={project} />
-              //  openModal={openModal} setOpenModal={setOpenModal} 
+              // openModal={openModal} setOpenModal={setOpenModal} 
             ))}
         </CardContainer>
       </Wrapper>

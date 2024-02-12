@@ -79,7 +79,7 @@ const Contact = () => {
         <Desc>
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <form action="https://formspree.io/f/xqkrpjab"
+        <form action="https://formspree.io/f/mkndrgzy"
   method="POST" className="FORME"
         >
           {/* <ContactForm> */}

@@ -1,19 +1,19 @@
 export const Bio = {
-  name: "Champa Lal Suthar",
+  name: "Vinay Kumar Yadav",
   roles: [
     "Full Stack Developer",
     "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/champalalsuthar",
+  github: "https://github.com/Vinaykumaryadav9199",
   resume:
-    "https://drive.google.com/file/d/1TPnbAw6XGwg5PvBax2IZQnwS0w26UzmJ/view",
-  linkedin: "https://www.linkedin.com/in/champa-lal-suthar-325040253/",
+    "/",
+  linkedin: "https://www.linkedin.com/in/vinaykumaryadavcuh/",
   twitter: "https://www.twitter.com/",
   insta: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
-  leetcode: "https://leetcode.com/champa_lal/",
+  leetcode: "https://leetcode.com/vinaykumar841241/",
 };
 
 export const skills = [
@@ -153,35 +153,35 @@ export const education = [
     img:"https://upload.wikimedia.org/wikipedia/en/f/fd/Central_University_of_Haryana_logo.png",
     school: "Central University of Haryana",
     date: "Nov 2022 - Jun 2024",
-    grade: "8.77 CGPA",
-    desc: "I am currently pursuing a Master's degree in Master of Computer Application at Central University of Haryana. I have completed 2 semesters and have a CGPA of 8.77.",
+    grade: "8.23 CGPA",
+    desc: "I am currently pursuing a Master's degree in Master of Computer Application at Central University of Haryana. I have completed 2 semesters and have a CGPA of 8.23.",
     degree: "Master of Computer Application, Computer Science and Information Technology",
   },
   {
     id: 1,
     img:"https://png.pngtree.com/png-vector/20201127/ourmid/pngtree-nanchang-university-administration-building-png-image_2443520.jpg",
-    school: "Government PG College Barmer",
-    date: "July 2019 - Apr 2022",
-    grade: "60.44%",
-    desc: "I completed my Gradation's degree at Government PG College Barmer.",
+    school: "Anugrah Narayan College ,Patna",
+    date: "July 2019 - May 2022",
+    grade: "68.67%",
+    desc: "I completed my Gradation's degree at Government A N College Patna.",
     degree: "Bsc",
   },
   {
     id: 2,
     img:"https://img.lovepik.com/element/45000/6636.png_860.png",
-    school: "Shastri Bal Niketan Sr. Sec. School, Sikar",
+    school: "M S College , Mairwa",
     date: "July 2017 - May 2019",
-    grade: "79.40%",
-    desc: "I completed my high school education at Shastri Bal Niketan Sr. Sec. School, Sikar,where I studied Mathematics Physics and Chemistry.",
+    grade: "78.25%",
+    desc: "I completed my high school education at M S College Mairwa ,where I studied Mathematics Physics and Chemistry.",
     degree: "XII, PCM",
   },
   {
     id: 3,
     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EnFMfxIS18DpQF8RNQahEj2kIfM6wHEbMg&usqp=CAU",
-    school: "Maharaja Public Sr. Sec. School, Barmer ",
-    date: "July 2015 - May 2017",
-    grade: "81.17%",
-    desc: "I completed my class 10 education at Maharaja Public Sr. Sec. School, Barmer.",
+    school: "Sri krishna Ojha high School ,Siwan ",
+    date: "July 2016 - May 2017",
+    grade: "79.75%",
+    desc: "I completed my class 10 education at Sri krishna Ojha high School ,Siwan.",
     degree: "X",
   },
 ];
@@ -189,30 +189,29 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Coding Club Quiz Web App",
+    title: "Virtual Help Web App",
     date: "Sep 2023 - Nov 2023",
     description:
-      "CENTRAL UNIVERSITY OF HARYANA Coding Club Quiz web app project. This platform is designed to cater to students who can log in to their accounts, select coding quizzes based on their preferred subjects, and actively participate in the quizzes.The web app provides instant results",
+      "The Virtual Help Web App project is a web-based platform that facilitates the sharing of academic notes among university students. It aims to create a collaborative environment where students can upload, download, and discuss course materials ",
     
     image:require("./p1home.png"),
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js" ,"Firebase "],
     category: "web app",
-    github: "https://github.com/champalalsuthar/Coding_Club_Quiz_Frontend",
-    webapp: "https://cuhcodingclub.vercel.app/",
+    github: "https://github.com/Vinaykumaryadav9199/Virtual-Help-FrontEnd",
+    webapp: "https://virtualhelp.vercel.app/",
   },
   {
     id: 1,
-    title: "RK Clinic +",
-    date: "Dec 2023 - Jan 2024",
-    description: "Developed a user-friendly healthcare platform allowing doctor appointments, showcasing comprehensive clinic services,legal page,contact supports and enabling virtual consultations for expert medical advice. Ensuring a responsive UI design across devices",
+    title: "RideShare web App",
+    date: "Dec 2023 - feb 2024",
+    description: "RideShare is a ride-sharing app that connects people heading to the same destination, allowing them to share rides and save money, reduce traffic, and protect the environment.",
       image:require("./p2home.png"),
     tags: [
-      "React Js",
-      "HTML", "CSS", "JAVASCRIPT"
+      "React Js", "MongoDb", "Node Js", "Express Js" ,"Cloudinary ","multer","jsonwebtoken "
     ],
     category: "web app",
-    github: "https://github.com/champalalsuthar/Hospital_Wabsite",
-    webapp: "https://rkclinic.vercel.app/",
+    github: "/",
+    webapp: "/",
   },
   // {
   //   id: 2,
