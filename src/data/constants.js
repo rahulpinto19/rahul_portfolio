@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinaykumaryadav9199",
   resume:
-    "/",
+    "https://drive.google.com/file/d/1Ci38TrTweB5c146uj5bfFDcCeEVk7bXo/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vinaykumaryadavcuh/",
   twitter: "https://www.twitter.com/",
   insta: "https://www.instagram.com/",
