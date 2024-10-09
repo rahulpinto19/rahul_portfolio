@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Vinay Kumar Yadav</Logo>
+        <Logo>Manuka Rahul</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.leetcode} target="display"><SiLeetcode /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; {new Date().getFullYear()}. Vinay Kumar Yadav. All rights reserved.
+          &copy; {new Date().getFullYear()}. Manuka Rahul. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

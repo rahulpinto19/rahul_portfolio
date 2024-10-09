@@ -75,20 +75,21 @@ export const HeroLeftContainer = styled.div`
 `;
 
 export const HeroRightContainer = styled.div`
-  width: 100%;
+  width: 80%;
   display: flex;
   order: 2;
   justify-content: end;
   gap: 12px;
-  @media (max-width: 960px) {
+  @media (max-width: 900px) 
+  {
     order: 1;
-    justify-content: center;
+     justify-content: center;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   }
 
   @media (max-width: 640px) {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
   }
 `;
 
@@ -98,7 +99,7 @@ export const Img = styled.img`
   height: 100%;
   max-width: 400px;
   max-height: 400px;
-  border-radius: 50%;
+  border-radius: 40%;
   border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
